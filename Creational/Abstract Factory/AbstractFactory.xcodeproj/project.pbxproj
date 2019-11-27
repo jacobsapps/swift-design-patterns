@@ -67,7 +67,7 @@
 		1576BC52238EAF26000C8A7C = {
 			isa = PBXGroup;
 			children = (
-				1576BC5D238EAF26000C8A7C /* Abstract Factory */,
+				1576BC5D238EAF26000C8A7C /* AbstractFactory */,
 				1576BC5C238EAF26000C8A7C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -80,14 +80,14 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1576BC5D238EAF26000C8A7C /* Abstract Factory */ = {
+		1576BC5D238EAF26000C8A7C /* AbstractFactory */ = {
 			isa = PBXGroup;
 			children = (
 				1576BC5E238EAF26000C8A7C /* main.swift */,
 				1576BC94238EC5F4000C8A7C /* MazeGame.swift */,
 				1576BCA5238EC608000C8A7C /* Model */,
 			);
-			path = "Abstract Factory";
+			path = AbstractFactory;
 			sourceTree = "<group>";
 		};
 		1576BCA5238EC608000C8A7C /* Model */ = {
